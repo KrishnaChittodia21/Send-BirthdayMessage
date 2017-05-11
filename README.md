@@ -1,8 +1,6 @@
 #Facebook Chatbot
 Send a happy birthday message to your friend on Facebook at every 8AM.
 
-![Running in background](http://i.imgur.com/TbXAktQ.png) ![Message was sent on Facebook](http://i.imgur.com/AlbzEFI.png)
-
 ###Install
 
 ```

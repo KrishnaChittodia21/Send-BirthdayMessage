@@ -1,5 +1,5 @@
-var execute = require("./src/login.js");
-var service = require("./src/service.js");
+var execute = require("./source/login.js");
+var service = require("./source/service.js");
 
 var user = {
     email: "Enter your valid email",
